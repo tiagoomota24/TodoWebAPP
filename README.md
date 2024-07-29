@@ -2,17 +2,17 @@
 
 This is a simple task list application built with React. It allows users to add, edit, and delete tasks from a list.
 
-## Funcionalidades
+## Functionalities
 
 - Add a new task
 - Edit an existing task
 - Delete a task
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - React
 
-## Instalação
+## Running the application
 
 1. Clone the repository to your local directory:
     ```sh
